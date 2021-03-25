@@ -1,4 +1,4 @@
-[{
+let mock = [{
     //better fake images https://www.websiteplanet.com/webtools/dummy-images-generator/ or https://dummyimage.com/ which is https://dummyimage.com/{{image size}}601x400/{{color}}bd24bd/41479c&text={{title with + for space}}hello+there
     "id": 1,
     //https://dummyimage.com/600x600/defefe/41479c&text=send a bullet
@@ -17,42 +17,42 @@
   }, {
     "id": 3,
     "title": "V. I. Warshawski",
-    "genre": "Action|Comedy|Crime",
+    "genre": "Action | Comedy | Crime",
     "poster": "http://dummyimage.com/200x200.png/dddddd/000000",
     "show-time": "2:16 PM",
     "cost": 14.5
   }, {
     "id": 4,
     "title": "Six Pack",
-    "genre": "Comedy|Drama",
+    "genre": "Comedy | Drama",
     "poster": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "show-time": "1:20 PM",
     "cost": 14.28
   }, {
     "id": 5,
     "title": "Epic",
-    "genre": "Adventure|Animation|Fantasy",
+    "genre": "Adventure | Animation | Fantasy",
     "poster": "http://dummyimage.com/200x200.png/dddddd/000000",
     "show-time": "7:00 PM",
     "cost": 14.79
   }, {
     "id": 6,
     "title": "Gigantic",
-    "genre": "Comedy|Romance",
+    "genre": "Comedy | Romance",
     "poster": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "show-time": "8:36 PM",
     "cost": 25.44
   }, {
     "id": 7,
     "title": "I Shot Jesse James",
-    "genre": "Drama|Romance|Western",
+    "genre": "Drama | Romance | Western",
     "poster": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "show-time": "10:43 PM",
     "cost": 18.02
   }, {
     "id": 8,
     "title": "It's Not Me, I Swear! (C'est pas moi, je le jure!)",
-    "genre": "Comedy|Drama",
+    "genre": "Comedy | Drama",
     "poster": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "show-time": "8:59 PM",
     "cost": 22.07
@@ -66,7 +66,7 @@
   }, {
     "id": 10,
     "title": "Singing Marine, The",
-    "genre": "Comedy|Musical|Romance",
+    "genre": "Comedy | Musical | Romance",
     "poster": "http://dummyimage.com/200x200.png/dddddd/000000",
     "show-time": "8:16 PM",
     "cost": 4.44
@@ -80,14 +80,14 @@
   }, {
     "id": 12,
     "title": "Sinbad of the Seven Seas",
-    "genre": "Adventure|Fantasy|Romance",
+    "genre": "Adventure | Fantasy | Romance",
     "poster": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "show-time": "10:09 PM",
     "cost": 6.32
   }, {
     "id": 13,
     "title": "Maiden's Cheek (To xylo vgike apo ton Paradeiso)",
-    "genre": "Comedy|Romance",
+    "genre": "Comedy | Romance",
     "poster": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "show-time": "10:33 PM",
     "cost": 3.83
@@ -108,7 +108,7 @@
   }, {
     "id": 16,
     "title": "Frankenstein Unbound",
-    "genre": "Drama|Horror|Sci-Fi",
+    "genre": "Drama | Horror | Sci-Fi",
     "poster": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "show-time": "12:19 PM",
     "cost": 4.99
@@ -122,14 +122,14 @@
   }, {
     "id": 18,
     "title": "Footloose",
-    "genre": "Comedy|Drama|Musical",
+    "genre": "Comedy | Drama | Musical",
     "poster": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "show-time": "5:46 PM",
     "cost": 23.39
   }, {
     "id": 19,
     "title": "Desperate Search",
-    "genre": "Adventure|Drama",
+    "genre": "Adventure | Drama",
     "poster": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "show-time": "9:21 PM",
     "cost": 23.49
@@ -143,63 +143,63 @@
   }, {
     "id": 21,
     "title": "6th Day, The",
-    "genre": "Action|Sci-Fi|Thriller",
+    "genre": "Action | Sci-Fi | Thriller",
     "poster": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "show-time": "8:20 PM",
     "cost": 4.52
   }, {
     "id": 22,
     "title": "Robin-B-Hood (Bo bui gai wak)",
-    "genre": "Action|Comedy|Drama",
+    "genre": "Action | Comedy | Drama",
     "poster": "http://dummyimage.com/200x200.png/dddddd/000000",
     "show-time": "2:38 PM",
     "cost": 24.47
   }, {
     "id": 23,
     "title": "Black Cat, White Cat (Crna macka, beli macor)",
-    "genre": "Comedy|Romance",
+    "genre": "Comedy | Romance",
     "poster": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "show-time": "7:51 PM",
     "cost": 21.12
   }, {
     "id": 24,
     "title": "Skeleton Man",
-    "genre": "Action|Horror",
+    "genre": "Action | Horror",
     "poster": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "show-time": "3:26 PM",
     "cost": 13.21
   }, {
     "id": 25,
     "title": "Follow Me Quietly",
-    "genre": "Crime|Drama|Film-Noir|Mystery",
+    "genre": "Crime | Drama | Film-Noir | Mystery",
     "poster": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "show-time": "2:36 PM",
     "cost": 8.12
   }, {
     "id": 26,
     "title": "Dinner at Eight",
-    "genre": "Comedy|Drama|Romance",
+    "genre": "Comedy | Drama | Romance",
     "poster": "http://dummyimage.com/200x200.png/dddddd/000000",
     "show-time": "12:10 PM",
     "cost": 19.69
   }, {
     "id": 27,
     "title": "The Stoker",
-    "genre": "Crime|Drama",
+    "genre": "Crime | Drama",
     "poster": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "show-time": "4:11 PM",
     "cost": 4.71
   }, {
     "id": 28,
     "title": "Crocodile",
-    "genre": "Horror|Thriller",
+    "genre": "Horror | Thriller",
     "poster": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "show-time": "11:39 AM",
     "cost": 19.21
   }, {
     "id": 29,
     "title": "Femme Fatale",
-    "genre": "Crime|Thriller",
+    "genre": "Crime | Thriller",
     "poster": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "show-time": "5:34 PM",
     "cost": 14.39
@@ -213,28 +213,28 @@
   }, {
     "id": 31,
     "title": "Christmas Story (Joulutarina)",
-    "genre": "Children|Drama|Fantasy",
+    "genre": "Children | Drama | Fantasy",
     "poster": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "show-time": "3:18 PM",
     "cost": 8.07
   }, {
     "id": 32,
     "title": "Virgin Spring, The (Jungfrukällan)",
-    "genre": "Crime|Drama",
+    "genre": "Crime | Drama",
     "poster": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "show-time": "8:18 PM",
     "cost": 18.79
   }, {
     "id": 33,
     "title": "Perfect Crime, The (Crimen Ferpecto) (Ferpect Crime)",
-    "genre": "Comedy|Crime|Thriller",
+    "genre": "Comedy | Crime | Thriller",
     "poster": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "show-time": "12:54 PM",
     "cost": 16.03
   }, {
     "id": 34,
     "title": "Alphabet City",
-    "genre": "Crime|Drama|Thriller",
+    "genre": "Crime | Drama | Thriller",
     "poster": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "show-time": "2:47 PM",
     "cost": 4.91
@@ -248,14 +248,14 @@
   }, {
     "id": 36,
     "title": "Two Times Lotte",
-    "genre": "Children|Comedy",
+    "genre": "Children | Comedy",
     "poster": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "show-time": "3:50 PM",
     "cost": 15.13
   }, {
     "id": 37,
     "title": "Third Wheel, The",
-    "genre": "Comedy|Romance",
+    "genre": "Comedy | Romance",
     "poster": "http://dummyimage.com/200x200.png/dddddd/000000",
     "show-time": "12:14 PM",
     "cost": 19.91
@@ -283,49 +283,49 @@
   }, {
     "id": 41,
     "title": "Ex-Lady",
-    "genre": "Comedy|Drama",
+    "genre": "Comedy | Drama",
     "poster": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "show-time": "11:30 PM",
     "cost": 27.17
   }, {
     "id": 42,
     "title": "Jonah Hex",
-    "genre": "Action|Drama|Thriller|Western",
+    "genre": "Action | Drama | Thriller | Western",
     "poster": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "show-time": "11:51 PM",
     "cost": 4.25
   }, {
     "id": 43,
     "title": "Halloween: The Curse of Michael Myers (Halloween 6: The Curse of Michael Myers)",
-    "genre": "Horror|Thriller",
+    "genre": "Horror | Thriller",
     "poster": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "show-time": "12:04 PM",
     "cost": 13.86
   }, {
     "id": 44,
     "title": "Racing with the Moon",
-    "genre": "Comedy|Drama|Romance",
+    "genre": "Comedy | Drama | Romance",
     "poster": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "show-time": "6:20 PM",
     "cost": 23.57
   }, {
     "id": 45,
     "title": "Switch, The",
-    "genre": "Comedy|Romance",
+    "genre": "Comedy | Romance",
     "poster": "http://dummyimage.com/200x200.png/dddddd/000000",
     "show-time": "6:32 PM",
     "cost": 17.33
   }, {
     "id": 46,
     "title": "No Time for Nuts",
-    "genre": "Adventure|Animation|Comedy",
+    "genre": "Adventure | Animation | Comedy",
     "poster": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "show-time": "5:03 PM",
     "cost": 10.37
   }, {
     "id": 47,
     "title": "Kansas City Confidential",
-    "genre": "Crime|Drama|Film-Noir|Mystery",
+    "genre": "Crime | Drama | Film-Noir | Mystery",
     "poster": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "show-time": "1:27 PM",
     "cost": 26.83
@@ -339,7 +339,7 @@
   }, {
     "id": 49,
     "title": "Alice Adams",
-    "genre": "Comedy|Drama",
+    "genre": "Comedy | Drama",
     "poster": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "show-time": "2:02 PM",
     "cost": 13.69
@@ -360,21 +360,21 @@
   }, {
     "id": 52,
     "title": "Article 99",
-    "genre": "Comedy|Drama",
+    "genre": "Comedy | Drama",
     "poster": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "show-time": "2:56 PM",
     "cost": 22.61
   }, {
     "id": 53,
     "title": "Shadows in Paradise (Varjoja paratiisissa)",
-    "genre": "Comedy|Romance",
+    "genre": "Comedy | Romance",
     "poster": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "show-time": "5:05 PM",
     "cost": 15.22
   }, {
     "id": 54,
     "title": "Island at War",
-    "genre": "Drama|War",
+    "genre": "Drama | War",
     "poster": "http://dummyimage.com/200x200.png/dddddd/000000",
     "show-time": "11:15 PM",
     "cost": 22.78
@@ -388,14 +388,14 @@
   }, {
     "id": 56,
     "title": "The Kiss of Her Flesh",
-    "genre": "Horror|Thriller",
+    "genre": "Horror | Thriller",
     "poster": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "show-time": "1:33 PM",
     "cost": 20.42
   }, {
     "id": 57,
     "title": "Flight of the Navigator",
-    "genre": "Adventure|Children|Sci-Fi",
+    "genre": "Adventure | Children | Sci-Fi",
     "poster": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "show-time": "4:25 PM",
     "cost": 5.66
@@ -409,7 +409,7 @@
   }, {
     "id": 59,
     "title": "Broken Arrow",
-    "genre": "Action|Adventure|Thriller",
+    "genre": "Action | Adventure | Thriller",
     "poster": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "show-time": "10:58 PM",
     "cost": 22.95
@@ -423,7 +423,7 @@
   }, {
     "id": 61,
     "title": "Carousel",
-    "genre": "Musical|Romance",
+    "genre": "Musical | Romance",
     "poster": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "show-time": "11:14 PM",
     "cost": 4.05
@@ -437,7 +437,7 @@
   }, {
     "id": 63,
     "title": "Irreconcilable Differences",
-    "genre": "Comedy|Drama|Romance",
+    "genre": "Comedy | Drama | Romance",
     "poster": "http://dummyimage.com/200x200.png/dddddd/000000",
     "show-time": "7:08 PM",
     "cost": 16.0
@@ -451,21 +451,21 @@
   }, {
     "id": 65,
     "title": "Green Chair (Noksaek uija)",
-    "genre": "Drama|Romance",
+    "genre": "Drama | Romance",
     "poster": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "show-time": "7:47 PM",
     "cost": 16.56
   }, {
     "id": 66,
     "title": "Cellular",
-    "genre": "Action|Crime|Drama|Mystery|Thriller",
+    "genre": "Action | Crime | Drama | Mystery | Thriller",
     "poster": "http://dummyimage.com/200x200.png/dddddd/000000",
     "show-time": "4:12 PM",
     "cost": 10.97
   }, {
     "id": 67,
     "title": "Bad Biology",
-    "genre": "Comedy|Fantasy|Thriller",
+    "genre": "Comedy | Fantasy | Thriller",
     "poster": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "show-time": "1:17 PM",
     "cost": 10.7
@@ -479,35 +479,35 @@
   }, {
     "id": 69,
     "title": "Tarzan",
-    "genre": "Adventure|Animation|Children|Drama",
+    "genre": "Adventure | Animation | Children | Drama",
     "poster": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "show-time": "5:13 PM",
     "cost": 20.2
   }, {
     "id": 70,
     "title": "Mask of Dimitrios, The",
-    "genre": "Crime|Drama|Film-Noir|Mystery",
+    "genre": "Crime | Drama | Film-Noir | Mystery",
     "poster": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "show-time": "11:15 PM",
     "cost": 24.23
   }, {
     "id": 71,
     "title": "Topper Returns",
-    "genre": "Comedy|Fantasy|Mystery|Romance",
+    "genre": "Comedy | Fantasy | Mystery | Romance",
     "poster": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "show-time": "2:09 PM",
     "cost": 21.85
   }, {
     "id": 72,
     "title": "Rebirth of Mothra II",
-    "genre": "Action|Fantasy",
+    "genre": "Action | Fantasy",
     "poster": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "show-time": "12:13 PM",
     "cost": 7.85
   }, {
     "id": 73,
     "title": "Dark Habits (Entre tinieblas)",
-    "genre": "Comedy|Drama",
+    "genre": "Comedy | Drama",
     "poster": "http://dummyimage.com/200x200.png/dddddd/000000",
     "show-time": "8:18 PM",
     "cost": 6.69
@@ -521,7 +521,7 @@
   }, {
     "id": 75,
     "title": "Jekyll",
-    "genre": "Crime|Horror|Thriller",
+    "genre": "Crime | Horror | Thriller",
     "poster": "http://dummyimage.com/200x200.png/dddddd/000000",
     "show-time": "10:56 PM",
     "cost": 14.11
@@ -542,35 +542,35 @@
   }, {
     "id": 78,
     "title": "Henry Fool",
-    "genre": "Comedy|Drama",
+    "genre": "Comedy | Drama",
     "poster": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "show-time": "9:49 PM",
     "cost": 20.49
   }, {
     "id": 79,
     "title": "Clone (Womb)",
-    "genre": "Drama|Romance|Sci-Fi",
+    "genre": "Drama | Romance | Sci-Fi",
     "poster": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "show-time": "11:45 AM",
     "cost": 7.6
   }, {
     "id": 80,
     "title": "Sade",
-    "genre": "Crime|Drama",
+    "genre": "Crime | Drama",
     "poster": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "show-time": "12:09 PM",
     "cost": 7.28
   }, {
     "id": 81,
     "title": "C.H.U.D. II - Bud the Chud",
-    "genre": "Comedy|Horror",
+    "genre": "Comedy | Horror",
     "poster": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "show-time": "9:02 PM",
     "cost": 16.15
   }, {
     "id": 82,
     "title": "Happy Together",
-    "genre": "Drama|Romance",
+    "genre": "Drama | Romance",
     "poster": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "show-time": "9:40 PM",
     "cost": 4.11
@@ -584,7 +584,7 @@
   }, {
     "id": 84,
     "title": "Real Men",
-    "genre": "Comedy|Sci-Fi",
+    "genre": "Comedy | Sci-Fi",
     "poster": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "show-time": "6:26 PM",
     "cost": 15.05
@@ -605,28 +605,28 @@
   }, {
     "id": 87,
     "title": "No. 1 Ladies' Detective Agency, The",
-    "genre": "Comedy|Crime|Mystery",
+    "genre": "Comedy | Crime | Mystery",
     "poster": "http://dummyimage.com/200x200.png/5fa2dd/ffffff",
     "show-time": "6:01 PM",
     "cost": 8.72
   }, {
     "id": 88,
     "title": "Bedazzled",
-    "genre": "Comedy|Fantasy",
+    "genre": "Comedy | Fantasy",
     "poster": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "show-time": "9:52 PM",
     "cost": 22.65
   }, {
     "id": 89,
     "title": "Perfect Holiday, The",
-    "genre": "Comedy|Romance",
+    "genre": "Comedy | Romance",
     "poster": "http://dummyimage.com/200x200.png/dddddd/000000",
     "show-time": "8:50 PM",
     "cost": 16.81
   }, {
     "id": 90,
     "title": "Fast Times at Ridgemont High",
-    "genre": "Comedy|Drama|Romance",
+    "genre": "Comedy | Drama | Romance",
     "poster": "http://dummyimage.com/200x200.png/ff4444/ffffff",
     "show-time": "7:14 PM",
     "cost": 18.97
@@ -640,7 +640,7 @@
   }, {
     "id": 92,
     "title": "Red Baron, The (Der rote Baron)",
-    "genre": "Action|Drama|Romance|War",
+    "genre": "Action | Drama | Romance | War",
     "poster": "http://dummyimage.com/200x200.png/dddddd/000000",
     "show-time": "3:42 PM",
     "cost": 8.25
@@ -661,7 +661,7 @@
   }, {
     "id": 95,
     "title": "Rugrats in Paris: The Movie",
-    "genre": "Animation|Children|Comedy",
+    "genre": "Animation | Children | Comedy",
     "poster": "http://dummyimage.com/200x200.png/cc0000/ffffff",
     "show-time": "3:15 PM",
     "cost": 16.12
@@ -701,3 +701,5 @@
     "show-time": "6:47 PM",
     "cost": 4.55
   }]
+
+  export default mock;
